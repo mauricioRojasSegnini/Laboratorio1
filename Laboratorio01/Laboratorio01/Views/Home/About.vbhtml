@@ -6,7 +6,7 @@
     <body>
         <div>
             <h1>Mi primera vista</h1>
-            <h2>Hola Mundo!</h2>
+            <h2>VIVA CARTAGO!</h2>
             <p>
                 <strong> Yo soy: </strong> Mauricio Segnini <br/>
                 Mi nota el día de hoy es: <input type="number"value="1000" placeholder="Escriba su nota"/>
