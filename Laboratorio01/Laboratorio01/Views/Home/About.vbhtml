@@ -1,8 +1,28 @@
-﻿@Code
-    ViewData("Title") = "About"
-End Code
+﻿
+<html>
+    <head>
+        <title> Mi primera vista </title>
+    </head>
+    <body>
+        <div>
+            <h1>Mi primera vista</h1>
+            <h2>Hola Mundo!</h2>
+            <p>
+                <strong> Yo soy: </strong> Mauricio Segnini <br/>
+                Mi nota el día de hoy es: <input type="number"value="1000" placeholder="Escriba su nota"/>
+            </p>
+            <hr/>
+        </div>
 
-<h2>@ViewData("Title").</h2>
-<h3>@ViewData("Message")</h3>
+        <div>
+            <label>Caja para texto:</label>
+            <input type="text" placeholder="Escriba cualquier cosa"/>
+            <hr/>
+        <div>
 
-<p>Use this area to provide additional information.</p>
+
+        <div>
+            <a class="btn btn-info"href="/Home/Index">Volver a la página de inicio </a><br/>
+        </div>
+    <body>
+                                </html>
